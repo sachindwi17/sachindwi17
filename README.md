@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on JavaScript.
-- 🌱 I’m currently learning Frontend-Development.
+- 🌱 I’m currently learning Full-Stack-Development.
 - 📫 How to reach me: sd8667197@gmail.com
 - 🌐 Find my portfolio at: http://sachindwivedi.tech/
 - 😄 Pronouns: He/Him/His
