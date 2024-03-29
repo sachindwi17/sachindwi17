@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on Java.
 - 🌱 I’m currently learning Full-Stack-Development.
+- Assistant System Engineer at TCS Indore 
 - 📫 How to reach me: sd8667197@gmail.com
 - 🌐 Find my portfolio at: https://sachindwivedi.tech/
 - 😄 Pronouns: He/Him/His
