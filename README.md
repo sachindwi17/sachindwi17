@@ -1,8 +1,8 @@
 ### Hey, I'm Sachin Dwivedi!
 
 
-- 🔭 I’m currently working on Java.
-- 🌱 I’m currently learning Full-Stack-Development.
+- 🔭 I’m currently working on Azure.
+- 🌱 I’m currently learning Azure Technologies.
 - Assistant System Engineer at TCS Indore 
 - 📫 How to reach me: sd8667197@gmail.com
 - 🌐 Find my portfolio at: https://sachindwivedi.tech/
