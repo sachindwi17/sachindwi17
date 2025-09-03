@@ -36,8 +36,8 @@
 ## 🌐 Connect with Me  
 
 - 📧 Email: **sd8667197@gmail.com**  
-- 🌐 Portfolio: [sachindwivedi.tech](https://sachindwi17.github.io/sachindwivedi/)  
-- 💼 LinkedIn: *(add your LinkedIn link if you want)*  
+- 🌐 Portfolio: [sachindwivedi](https://sachindwi17.github.io/sachindwivedi/)  
+- 💼 LinkedIn: *([Sachin Dwivedi](https://www.linkedin.com/in/sachin-kumar-dwivedi-6a3230230))*  
 
 ---
 
