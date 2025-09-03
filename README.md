@@ -1,12 +1,45 @@
-### Hey, I'm Sachin Dwivedi!
+# Hey, I'm Sachin Dwivedi! 👋  
 
+🚀 **Azure Data Engineer & Data Analyst at TCS, Indore**  
 
-- 🔭 I’m currently working on Azure.
-- 🌱 I’m currently learning Azure Technologies.
-- Azure Data Engineer and Data Analyst at TCS Indore 
-- 📫 How to reach me: sd8667197@gmail.com
-- 🌐 Find my portfolio at: [https://sachindwivedi.tech/](https://sachindwi17.github.io/sachindwivedi/)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I always want to code something new.
+<em date="19/12/2021">“Work is the best way to explore yourself.” – Mine</em>  
 
-<em date="19/12/2021">Work is the best way to explore yourself.</br>-Mine</em>
+---
+
+## 🌟 About Me  
+
+- 🔭 Currently working on **Azure** and contributing to the **Stryker Project** at TCS  
+- 🌱 Exploring and upskilling in **Azure Technologies**  
+- 💡 Passionate about **Data Engineering, Analytics, and Cloud Solutions**  
+- ⚡ Fun fact: I always want to **code something new**  
+- 😄 Pronouns: He/Him/His  
+
+---
+
+## 🛠️ Skills & Technologies  
+
+- **Azure**: Synapse Analytics, Data Factory, Databricks  
+- **Visualization**: Power BI  
+- **Programming**: Python, PySpark, SQL  
+- **Data Engineering**: ETL Pipelines, Data Modeling, Data Warehousing  
+
+---
+
+## 🎓 Certifications  
+
+- ✅ Microsoft Certified: **Azure Fundamentals (AZ-900)**  
+- ✅ Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**  
+- ⏳ Currently Learning: **Azure DP-700 (Microsoft Fabric Analytics Engineer)**  
+
+---
+
+## 🌐 Connect with Me  
+
+- 📧 Email: **sd8667197@gmail.com**  
+- 🌐 Portfolio: [sachindwivedi.tech](https://sachindwi17.github.io/sachindwivedi/)  
+- 💼 LinkedIn: *(add your LinkedIn link if you want)*  
+
+---
+
+✨ Thanks for visiting my profile! Always open to collaboration, learning, and building something impactful.  
+
